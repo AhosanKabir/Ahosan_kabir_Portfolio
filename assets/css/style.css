@@ -385,7 +385,7 @@ img {
 
 /* hero */
 .hero{
- background-image:linear-gradient( to top , rgba(0, 0, 0, 0.6), rgba(10, 10, 10, 0.9)),url(/assets/images/sidebar-img.jpg);
+background-image:linear-gradient( to top , rgba(0, 0, 0, 0.6), rgba(10, 10, 10, 0.9)),url("../images/sidebar-img.jpg");
 
  background-repeat: no-repeat;
  background-size: cover;
